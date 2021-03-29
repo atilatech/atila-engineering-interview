@@ -1,5 +1,6 @@
 # atila-engineering-interview
 
+[Prerequisites and tutorials](https://docs.google.com/document/d/1B4FKYcf_wNEAdpCYMe8eMrGH7vICPGJCmDgYkVNS5ew/edit#) to help you get familiar with the tech stack and projects.
 
 ## Python Flask Search Server
 
