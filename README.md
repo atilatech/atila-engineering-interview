@@ -33,8 +33,8 @@ Suppose I have the following scholarships in my database:
 ```
 
 1. If I visit the following url: `http://localhost:8000/scholarships/?q=engineering`
-1. The API should return all the scholarships that contain the query string "engineering" in any of the following
-fields ["name", "description", "eligible_schools", "eligible_programs"]
+1. The API should return all the scholarships that contain the query string "engineering" 
+in any of the scholarship's fields.
 
 1. So in this example, the API will return the following response
 ```json
