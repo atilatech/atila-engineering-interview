@@ -73,4 +73,4 @@ in any of the scholarship's fields.
 
 - For software tasks, send your interviewer a link to your Github repo
   - If applicable, make sure you include a README.md explaining how to run your code and add any necessary comments and documentation which would make it easier to understand your code and commits)
-- For design tasks send your interviewer a link to your design in Figma
+- For design tasks, send your interviewer a link to your design in Figma
