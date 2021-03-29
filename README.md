@@ -65,3 +65,9 @@ in any of the scholarship's fields.
 1. Pick any [Atila Direct Application Scholarship](https://atila.ca/scholarship/direct).
 1. Create an Intagram carousel design to advertise the scholarship using Figma. See: [SkateBoards For Hope Design](https://www.instagram.com/p/CLKSucZsxcm/)
 1. Hint: You can use [Storyset](https://storyset.com/) or any other tools you want. You can also use the [Storyset Figma Plugin](https://storyset.com/for-figma)
+
+## Submission Instructions
+
+- For software tasks, send your interviewer a link to your Github repo
+  - If applicable, make sure you include a README.md explaining how to run your code and add any necessary comments and documentation which would make it easier to understand your code and commits)
+- For design tasks send your interviewer a link to your design in Figma
