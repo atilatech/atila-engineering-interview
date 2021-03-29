@@ -1,0 +1,477 @@
+[
+  {
+        "owner": [
+            "atila"
+        ],
+        "name": "The Michael Scott \"Scott's Tots\" Bursary Fund",
+        "slug": "the-michael-scott-scotts-tots-bursary-fund-wh4yz2ik",
+        "slug_unique": "wh4yz2ik",
+        "slug_human_readable": "the-michael-scott-scotts-tots-bursary-fund",
+        "description": "Any student in Canada or the US who can tell us your favorite parts about the Office.\r\n\r\nWhy do you love it, what makes it so great, anything!",
+        "criteria_info": "<p>I just--I fell in love with these kids. And I didn't want to see them fall victim to the system. So I made 'em a promise. I told them if they graduated from high school, I would pay for their college education. I have made some empty promises in my life but, hands down that was the most generous</p>",
+        "date_created": "2020-10-12",
+        "date_time_created": "2020-10-12T14:37:37.860Z",
+        "updated_at": "2021-01-02T17:14:40.936Z",
+        "deadline": "2020-10-27T11:59:00Z",
+        "open_date": "2022-12-31",
+        "base_match_score": 0.0014,
+        "form_url": "",
+        "img_url": "https://i.imgur.com/xXaOJwr.gif",
+        "scholarship_url": "https://atila.ca/scholarship/the-michael-scott-bursary-fund/",
+        "email_contact": "",
+        "funding_amount": "500.00",
+        "funding_amount_target": "500.00",
+        "stripe_payment_intent_id": "pi_1HbSA8Heg0qPyG6kVTBgnVZw",
+        "is_funded": true,
+        "is_winner_selected": true,
+        "is_payment_accepted": true,
+        "is_editable": false,
+        "is_atila_direct_application": true,
+        "archived": false,
+        "published": true,
+        "is_not_available": false,
+        "keywords": "Milton",
+        "ethnicity": "[]",
+        "heritage": "[]",
+        "citizenship": "[]",
+        "religion": "[]",
+        "activities": "[]",
+        "sports": "[]",
+        "disability": "[]",
+        "language": "[]",
+        "eligible_schools": "[]",
+        "eligible_programs": "[]",
+        "specific_questions": [
+            {
+                "key": "favorite-quote-from-the-office",
+                "type": "medium_answer",
+                "question": "Favorite quote from The Office"
+            },
+            {
+                "key": "favourite-episode",
+                "type": "short_answer",
+                "question": "Favourite Episode?"
+            },
+            {
+                "key": "why-do-you-like-the-office-so-much",
+                "type": "long_answer",
+                "question": "Why do you like the office so much?"
+            },
+            {
+                "key": "why-do-you-deserve-this-scholarship-5",
+                "type": "long_answer",
+                "question": "Why do you deserve this scholarship?"
+            }
+        ],
+        "user_profile_questions": [
+            {
+                "key": "first_name"
+            },
+            {
+                "key": "last_name"
+            },
+            {
+                "key": "email"
+            },
+            {
+                "key": "post_secondary_school"
+            },
+            {
+                "key": "major"
+            }
+        ],
+        "financial_need": false,
+        "female_only": false,
+        "international_students_eligible": false,
+        "number_available_scholarships": 1,
+        "resume_required": false,
+        "cover_letter_required": false,
+        "transcript_required": false,
+        "reference_letter_required": 0,
+        "enrollment_proof_required": false,
+        "metadata": {
+            "base_score": 0.0014
+        },
+        "metadata_private": {
+            "error": "\n**********************************************************************\n  Resource \u001b[93mpunkt\u001b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \u001b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \u001b[0m\n  Searched in:\n    - '/home/tomiwa/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/lib/nltk_data'\n    - ''\n**********************************************************************\n",
+            "previous_slug": "the-michael-scott-scotts-tots-bursary-fund-wh4yz2ik",
+            "title_keywords": "The Michael Scott \"Scott's Tots\" Bursary Fund",
+            "description_keywords": "Any student in Canada or the US who can tell us your favorite parts about the Office.\r\n\r\nWhy do you love it, what makes it so great, anything!"
+        },
+        "review_date": null,
+        "review_status": null,
+        "is_blind_applications": false,
+        "city": [
+            [
+                "Milton",
+                "Ontario",
+                "Canada"
+            ]
+        ],
+        "province": [],
+        "country": [
+            "Canada",
+            "United States"
+        ]
+},
+  {
+        "owner": [
+            "test_tomiwa"
+        ],
+        "name": "Atila Drake \"Superfan\" Scholarship",
+        "slug": "atila-drake-superfan-scholarship-ot2s93ym",
+        "slug_unique": "ot2s93ym",
+        "slug_human_readable": "atila-drake-superfan-scholarship",
+        "description": "Any high school, college or university student in Canada who can tell us your favourite Drake Song, lyric and why you think he is so popular.",
+        "criteria_info": "<p>We were trying to think of a relatable topic that most Canadian students could write about as a way to announce our <a href=\"https://atila.ca/apply\">new direct applications scholarship feature</a> and we decided on Drake, it's that simple.</p><p>&nbsp;</p><p>To apply, tell us your favourite Drake Song, lyric and optional: why you think he is so popular or what does he mean to you?&nbsp;</p><p>Then engage with at least one of our social media posts:</p><ul><li>Twitter: <a href=\"https://twitter.com/atilatech/status/1318162643354636294\">https://twitter.com/atilatech/status/1318162643354636294</a></li><li>Instagram: <a href=\"https://www.instagram.com/p/CGhni2MlmlC/\">https://www.instagram.com/p/CGhni2MlmlC/</a></li><li>Linkedin: <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6723930724132552704\">https://www.linkedin.com/feed/update/urn:li:activity:6723930724132552704</a></li></ul><p>&nbsp;</p><p>We are in no way affiliated with or endorsed by Drake, we just really like his music.</p>",
+        "date_created": "2020-10-14",
+        "date_time_created": "2020-10-14T01:08:10.181Z",
+        "updated_at": "2021-01-02T17:14:40.917Z",
+        "deadline": "2020-10-31T23:59:00Z",
+        "open_date": "2022-12-31",
+        "base_match_score": 0.0007,
+        "form_url": "",
+        "img_url": "https://theundefeated.com/wp-content/uploads/2019/05/1150379297_35717005-e1558655784639.jpg?w=1500",
+        "scholarship_url": "https://atila.ca/scholarship/atila-drake-superfan-scholarship-ot2s93ym/",
+        "email_contact": "",
+        "funding_amount": "50.00",
+        "funding_amount_target": "50.00",
+        "stripe_payment_intent_id": "pi_1HbyYJHeg0qPyG6ksJxNmfkJ",
+        "is_funded": true,
+        "is_winner_selected": false,
+        "is_payment_accepted": false,
+        "is_editable": false,
+        "is_atila_direct_application": true,
+        "archived": false,
+        "published": true,
+        "is_not_available": false,
+        "keywords": "",
+        "ethnicity": "[]",
+        "heritage": "[]",
+        "citizenship": "[]",
+        "religion": "[]",
+        "activities": "[]",
+        "sports": "[]",
+        "disability": "[]",
+        "language": "[]",
+        "eligible_schools": "[]",
+        "eligible_programs": "[]",
+        "specific_questions": [
+            {
+                "key": "what-is-your-favorite-drake-song",
+                "type": "short_answer",
+                "question": "What is your favorite Drake song?"
+            },
+            {
+                "key": "what-is-your-favorite-drake-lyric",
+                "type": "medium_answer",
+                "question": "What is your favorite Drake lyric?"
+            },
+            {
+                "key": "optional-answer-either-one-or-both-of-these-quest",
+                "type": "long_answer",
+                "question": "Optional: Answer either one or both of these questions: Why do you think Drake is so popular or what does Drake mean to you?"
+            },
+            {
+                "key": "have-you-engaged-with-at-least-one-of-our-social-m",
+                "type": "checkbox",
+                "question": "Have you engaged with at least one of our social media posts? (see scholarship description for more details)"
+            }
+        ],
+        "user_profile_questions": [
+            {
+                "key": "first_name"
+            },
+            {
+                "key": "last_name"
+            },
+            {
+                "key": "email"
+            }
+        ],
+        "financial_need": false,
+        "female_only": false,
+        "international_students_eligible": false,
+        "number_available_scholarships": 1,
+        "resume_required": false,
+        "cover_letter_required": false,
+        "transcript_required": false,
+        "reference_letter_required": 0,
+        "enrollment_proof_required": false,
+        "metadata": {
+            "base_score": 0.0007
+        },
+        "metadata_private": {
+            "error": "\n**********************************************************************\n  Resource \u001b[93mpunkt\u001b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \u001b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \u001b[0m\n  Searched in:\n    - '/home/tomiwa/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/lib/nltk_data'\n    - ''\n**********************************************************************\n",
+            "previous_slug": "atila-drake-superfan-scholarship-ot2s93ym",
+            "title_keywords": "Atila Drake \"Superfan\" Scholarship",
+            "description_keywords": "Any high school, college or university student in Canada who can tell us your favourite Drake Song, lyric and why you think he is so popular."
+        },
+        "review_date": null,
+        "review_status": null,
+        "is_blind_applications": false,
+        "city": [],
+        "province": [],
+        "country": [
+            "Canada"
+        ]
+},
+  {
+        "owner": [
+            "test_tomiwa"
+        ],
+        "name": "Atila Science and Engineering STEM Scholarship",
+        "slug": "atila-science-and-engineering-stem-scholarship-sj1i30zi",
+        "slug_unique": "sj1i30zi",
+        "slug_human_readable": "atila-science-and-engineering-stem-scholarship",
+        "description": "Any high school, college or university student in Canada who is currently studying or planning to study in a science, engineering or any STEM related field.Simply tell us why you chose to enter the STEM field and send us a link to something cool you've done.",
+        "criteria_info": "<p>We were thinking of a way to announce our <a href=\"https://atila.ca/apply\">new direct applications scholarship feature</a> and we looked at the data on our site and realized that most of our users are interested in STEM-related field so we want to reward our largest user base and say thank you for supporting Atila.</p><p>We also believe that science and engineering plays a big role towards making a better society, so this award is to encourage and reward you for studying a field that has played a big role in the advancing of society.</p><p>To apply, tell us why you chose to study STEM and a link to something cool you've built.</p><p>Then make sure you engage with at least one of our social media posts:</p><ul><li>Twitter: <a href=\"https://twitter.com/atilatech/status/1318160622777925632\">https://twitter.com/atilatech/status/1318160622777925632</a></li><li>Instagram: <a href=\"https://www.instagram.com/p/CGhnY0LFb74/\">https://www.instagram.com/p/CGhnY0LFb74/</a></li><li>Linkedin: <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6723930109943828480\">https://www.linkedin.com/feed/update/urn:li:activity:6723930109943828480</a></li></ul><p>&nbsp;</p>",
+        "date_created": "2020-10-14",
+        "date_time_created": "2020-10-14T02:25:00Z",
+        "updated_at": "2021-01-02T17:42:45.228Z",
+        "deadline": "2020-11-27T23:59:00Z",
+        "open_date": "2022-12-31",
+        "base_match_score": 0.0057,
+        "form_url": "",
+        "img_url": "https://i.imgur.com/TOEIPYE.png",
+        "scholarship_url": "https://atila.ca/scholarship/atila-science-and-engineering-stem-scholarship-sj1i30zi/",
+        "email_contact": null,
+        "funding_amount": "50.00",
+        "funding_amount_target": "200.00",
+        "stripe_payment_intent_id": null,
+        "is_funded": true,
+        "is_winner_selected": false,
+        "is_payment_accepted": false,
+        "is_editable": false,
+        "is_atila_direct_application": true,
+        "archived": false,
+        "published": true,
+        "is_not_available": false,
+        "keywords": "Engineering Health Sciences Biochemistry Biology Chemistry Mathematics Computer Science Nanotechnology",
+        "ethnicity": "[]",
+        "heritage": "[]",
+        "citizenship": "[]",
+        "religion": "[]",
+        "activities": "[]",
+        "sports": "[]",
+        "disability": "[]",
+        "language": "[]",
+        "eligible_schools": "[]",
+        "eligible_programs": "[\"Engineering\", \"Health Sciences\", \"Biochemistry\", \"Biology\", \"Chemistry\", \"Mathematics\", \"Computer Science\", \"Nanotechnology\"]",
+        "specific_questions": [
+            {
+                "key": "why-did-you-choose-to-study-a-stem-related-field",
+                "type": "long_answer",
+                "question": "Why did you choose to study a STEM-related field?"
+            },
+            {
+                "key": "how-do-you-plan-on-using-your-science-engineering",
+                "type": "long_answer",
+                "question": "How do you plan on using your science, engineering or STEM background to make the world a better place?"
+            },
+            {
+                "key": "a-link-to-something-cool-youve-done-it-could-be",
+                "type": "short_answer",
+                "question": "A link to something cool you've done: (it could be in the format of  video, github, blog post, website, picture anything)"
+            }
+        ],
+        "user_profile_questions": [
+            {
+                "key": "first_name"
+            },
+            {
+                "key": "last_name"
+            },
+            {
+                "key": "email"
+            },
+            {
+                "key": "major"
+            }
+        ],
+        "financial_need": false,
+        "female_only": false,
+        "international_students_eligible": false,
+        "number_available_scholarships": 1,
+        "resume_required": false,
+        "cover_letter_required": false,
+        "transcript_required": false,
+        "reference_letter_required": 0,
+        "enrollment_proof_required": false,
+        "metadata": {
+            "base_score": 0.0057
+        },
+        "metadata_private": {
+            "error": "\n**********************************************************************\n  Resource \u001b[93mpunkt\u001b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \u001b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \u001b[0m\n  Searched in:\n    - '/home/tomiwa/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/lib/nltk_data'\n    - ''\n**********************************************************************\n",
+            "previous_slug": "atila-science-and-engineering-stem-scholarship-sj1i30zi",
+            "title_keywords": "Atila Science and Engineering STEM Scholarship",
+            "description_keywords": "Any high school, college or university student in Canada who is currently studying or planning to study in a science, engineering or any STEM related field.Simply tell us why you chose to enter the STEM field and send us a link to something cool you've done."
+        },
+        "review_date": null,
+        "review_status": null,
+        "is_blind_applications": true,
+        "city": [],
+        "province": [],
+        "country": [
+            "Canada"
+        ]
+},
+  {
+        "owner": [
+            "test_tomiwa"
+        ],
+        "name": "Test Not Direct",
+        "slug": "test-not-direct-jutoew4o",
+        "slug_unique": "jutoew4o",
+        "slug_human_readable": "test-not-direct",
+        "description": "Test Not Direct",
+        "criteria_info": "",
+        "date_created": "2020-10-27",
+        "date_time_created": "2020-10-27T17:21:10.493Z",
+        "updated_at": "2021-01-02T17:14:40.897Z",
+        "deadline": "2020-12-27T23:59:00Z",
+        "open_date": "2022-12-31",
+        "base_match_score": 0.0,
+        "form_url": "",
+        "img_url": "https://images.unsplash.com/photo-1517118826013-01bf5d3186bc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=10881b38fbfde712975f66493dee7e9f&auto=format&fit=crop&w=1293&q=80",
+        "scholarship_url": "https://atila.ca/scholarship/test-not-direct-jutoew4o/",
+        "email_contact": "",
+        "funding_amount": "5.00",
+        "funding_amount_target": "5.00",
+        "stripe_payment_intent_id": "",
+        "is_funded": false,
+        "is_winner_selected": false,
+        "is_payment_accepted": false,
+        "is_editable": true,
+        "is_atila_direct_application": true,
+        "archived": false,
+        "published": false,
+        "is_not_available": false,
+        "keywords": "",
+        "ethnicity": "[]",
+        "heritage": "[]",
+        "citizenship": "[]",
+        "religion": "[]",
+        "activities": "[]",
+        "sports": "[]",
+        "disability": "[]",
+        "language": "[]",
+        "eligible_schools": "[]",
+        "eligible_programs": "[]",
+        "specific_questions": [],
+        "user_profile_questions": [
+            {
+                "key": "first_name"
+            },
+            {
+                "key": "last_name"
+            },
+            {
+                "key": "email"
+            }
+        ],
+        "financial_need": false,
+        "female_only": false,
+        "international_students_eligible": false,
+        "number_available_scholarships": 1,
+        "resume_required": false,
+        "cover_letter_required": false,
+        "transcript_required": false,
+        "reference_letter_required": 0,
+        "enrollment_proof_required": false,
+        "metadata": {},
+        "metadata_private": {
+            "error": "\n**********************************************************************\n  Resource \u001b[93mpunkt\u001b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \u001b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \u001b[0m\n  Searched in:\n    - '/home/tomiwa/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/lib/nltk_data'\n    - ''\n**********************************************************************\n",
+            "title_keywords": "Test Not Direct",
+            "description_keywords": "Test Not Direct"
+        },
+        "review_date": null,
+        "review_status": null,
+        "is_blind_applications": false,
+        "city": [],
+        "province": [],
+        "country": []
+},
+  {
+        "owner": [
+            "munger_pic2_contributor"
+        ],
+        "name": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+        "slug": "poor-charlies-almanack-the-wit-and-wisdom-of-charles-t-munger-cwglhey7",
+        "slug_unique": "cwglhey7",
+        "slug_human_readable": "poor-charlies-almanack-the-wit-and-wisdom-of-charles-t-munger",
+        "description": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+        "criteria_info": "<h2>Good Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger</h2>",
+        "date_created": "2020-12-19",
+        "date_time_created": "2020-12-19T14:47:13.110Z",
+        "updated_at": "2021-01-02T17:14:40.876Z",
+        "deadline": "2020-12-21T23:59:00Z",
+        "open_date": "2022-12-31",
+        "base_match_score": 0.0,
+        "form_url": "",
+        "img_url": "https://images.unsplash.com/photo-1474650919751-b7e21a1b180f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ab7646b5e3afca4bb382cf4922a89113&auto=format&fit=crop&w=1350&q=80",
+        "scholarship_url": "https://atila.ca/scholarship/poor-charlies-almanack-the-wit-and-wisdom-of-charles-t-munger-cwglhey7/",
+        "email_contact": "",
+        "funding_amount": "777.00",
+        "funding_amount_target": "777.00",
+        "stripe_payment_intent_id": "",
+        "is_funded": false,
+        "is_winner_selected": false,
+        "is_payment_accepted": false,
+        "is_editable": true,
+        "is_atila_direct_application": true,
+        "archived": false,
+        "published": false,
+        "is_not_available": false,
+        "keywords": "",
+        "ethnicity": "[]",
+        "heritage": "[]",
+        "citizenship": "[]",
+        "religion": "[]",
+        "activities": "[]",
+        "sports": "[]",
+        "disability": "[]",
+        "language": "[]",
+        "eligible_schools": "[]",
+        "eligible_programs": "[]",
+        "specific_questions": [
+            {
+                "key": "why-do-you-deserve-this-scholarship",
+                "type": "long_answer",
+                "question": "Why do you deserve this scholarship?"
+            }
+        ],
+        "user_profile_questions": [
+            {
+                "key": "first_name"
+            },
+            {
+                "key": "last_name"
+            },
+            {
+                "key": "email"
+            }
+        ],
+        "financial_need": false,
+        "female_only": false,
+        "international_students_eligible": false,
+        "number_available_scholarships": 1,
+        "resume_required": false,
+        "cover_letter_required": false,
+        "transcript_required": false,
+        "reference_letter_required": 0,
+        "enrollment_proof_required": false,
+        "metadata": {},
+        "metadata_private": {
+            "error": "\n**********************************************************************\n  Resource \u001b[93mpunkt\u001b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \u001b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \u001b[0m\n  Searched in:\n    - '/home/tomiwa/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/nltk_data'\n    - '/home/tomiwa/Desktop/tomiwa/codeproj/atila-code/atila-django/venv/lib/nltk_data'\n    - ''\n**********************************************************************\n",
+            "title_keywords": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+            "description_keywords": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
+        },
+        "review_date": null,
+        "review_status": null,
+        "is_blind_applications": false,
+        "city": [],
+        "province": [],
+        "country": []
+}
+]
