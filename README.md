@@ -7,6 +7,9 @@ Create a [Flask](https://flask.palletsprojects.com/en/1.1.x/) server that given 
 
 ### Example
 
+
+Note:In your actual code you should use the data in `data/scholarships.json`
+
 Suppose I have the following scholarships in my database:
 
 ```json
@@ -35,7 +38,6 @@ Suppose I have the following scholarships in my database:
 1. If I visit the following url: `http://localhost:8000/scholarships/?q=engineering`
 1. The API should return all the scholarships that contain the query string "engineering" 
 in any of the scholarship's fields.
-
 1. So in this example, the API will return the following response
 ```json
 {
@@ -57,7 +59,6 @@ in any of the scholarship's fields.
 }
 ```
 
-1. Your code should use the data in `data/scholarships.json`
 ## Figma Scholarship Design
 
 1. Pick any [Atila Direct Application Scholarship](https://atila.ca/scholarship/direct).
