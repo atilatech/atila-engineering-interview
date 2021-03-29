@@ -1,6 +1,9 @@
 # atila-engineering-interview
 
-[Prerequisites and tutorials](https://docs.google.com/document/d/1B4FKYcf_wNEAdpCYMe8eMrGH7vICPGJCmDgYkVNS5ew/edit#) to help you get familiar with the tech stack and projects.
+Some of the take home projects that are part of the Atila interview process.
+
+
+You can also read the [prerequisites and tutorials document](https://docs.google.com/document/d/1B4FKYcf_wNEAdpCYMe8eMrGH7vICPGJCmDgYkVNS5ew/edit#) to help you get familiar with Atila's tech stack and projects.
 
 ## Python Flask Search Server
 
@@ -8,8 +11,7 @@ Create a [Flask](https://flask.palletsprojects.com/en/1.1.x/) server that given 
 
 ### Example
 
-
-Note:In your actual code you should use the data in `data/scholarships.json`
+Note: In your actual code you should use the data in `data/scholarships.json`
 
 Suppose I have the following scholarships in my database:
 
@@ -37,9 +39,9 @@ Suppose I have the following scholarships in my database:
 ```
 
 1. If I visit the following url: `http://localhost:8000/scholarships/?q=engineering`
-1. The API should return all the scholarships that contain the query string "engineering" 
+1. The API should return all the scholarships that contain the string "engineering" 
 in any of the scholarship's fields.
-1. So in this example, the API will return the following response
+1. So in this example, the API will return the following response:
 ```json
 {
   "query": "engineering",
@@ -63,7 +65,8 @@ in any of the scholarship's fields.
 ## Figma Scholarship Design
 
 1. Pick any [Atila Direct Application Scholarship](https://atila.ca/scholarship/direct).
-1. Create an Intagram carousel design to advertise the scholarship using Figma. See: [SkateBoards For Hope Design](https://www.instagram.com/p/CLKSucZsxcm/)
+1. Create an Intagram carousel design to advertise the scholarship using Figma. 
+  1. For example, See: [SkateBoards For Hope Design](https://www.instagram.com/p/CLKSucZsxcm/)
 1. Hint: You can use [Storyset](https://storyset.com/) or any other tools you want. You can also use the [Storyset Figma Plugin](https://storyset.com/for-figma)
 
 ## Submission Instructions
