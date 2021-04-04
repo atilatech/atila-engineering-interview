@@ -1,11 +1,11 @@
-# atila-engineering-interview
+# Atila Engineering Interview
 
 Some of the take home projects that are part of the Atila interview process.
 
 
 You can also read the [prerequisites and tutorials document](https://docs.google.com/document/d/1B4FKYcf_wNEAdpCYMe8eMrGH7vICPGJCmDgYkVNS5ew/edit#) to help you get familiar with Atila's tech stack and projects.
 
-## Python Flask Search Server
+## Backend Task: Python Flask Search Server
 
 Create a [Flask](https://flask.palletsprojects.com/en/1.1.x/) server that given a search query, returns the scholarships in `/data` that matches that search term.
 
@@ -62,7 +62,22 @@ in any of the scholarship's fields.
 }
 ```
 
-## Figma Scholarship Design
+
+## Frontend Task: Javscript React Scholarship Viewer
+
+Your task is to design a simple web app that does the following:
+
+1. Display a list of scholarships found in `data/scholarships.json`. The list view should show: name, deadline, amount, image, description
+1. If the user enters a search term, a subset of scholarships matching the search term is displayed
+1. If the user clicks on a scholarship, they are taken to the scholarship detail page where they can see: name, deadline, amount, image, description, specific_questions, eligible_schools, eligible_programs, city, province, country. See the [Atila Science and Engineering STEM scholarship](https://atila.ca/scholarship/atila-science-and-engineering-stem-scholarship-sj1i30zi) as an example.
+
+Note: For the searching feature, you can do this completely in the frontend. You can make any assumptions you want about how the searching logic and implementation should work.
+
+Here's a mockup of what you will be building:
+
+![Front end mockup](https://i.imgur.com/AYMZZ3Y.png)
+
+## Design Task Scholarship Design
 
 1. Pick any [Atila Direct Application Scholarship](https://atila.ca/scholarship/direct).
 1. Create an Intagram carousel design to advertise the scholarship using Figma. 
