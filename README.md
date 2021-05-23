@@ -61,7 +61,12 @@ in any of the scholarship's fields.
 
 }
 ```
+## Backend Task 2: Django and Django Rest Framework
 
+1. Create a python [Django](https://www.djangoproject.com/) project that uses the [Django Rest Framework](https://www.django-rest-framework.org/) and has an API with the following two endpoints:
+  1. `api/scholarships` which returns a list of scholarships
+  1. `api/search/<search_term>` which returns a subset of scholarships matching the search term
+1. Your application should have a `Scholarship` model
 
 ## Frontend Task: Javscript React Scholarship Viewer
 
