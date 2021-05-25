@@ -5,6 +5,10 @@ Some of the take home projects that are part of the Atila interview process.
 
 You can also read the [prerequisites and tutorials document](https://docs.google.com/document/d/1B4FKYcf_wNEAdpCYMe8eMrGH7vICPGJCmDgYkVNS5ew/edit#) to help you get familiar with Atila's tech stack and projects.
 
+To see an open-source example of the Atila backend and frontend see:
+- Atila Backend: [atila-api-demo](https://github.com/atilatech/atila-api-demo)
+- Atila Frontend: [client-web-app](https://github.com/atilatech/client-web-app)
+
 ## Backend Task: Python Flask Search Server
 
 Create a [Flask](https://flask.palletsprojects.com/en/1.1.x/) server that given a search query, returns the scholarships in `/data` that matches that search term.
