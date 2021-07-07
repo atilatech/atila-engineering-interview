@@ -98,3 +98,6 @@ Here's a mockup of what you will be building:
 - For software tasks, send your interviewer a link to your Github repo
   - If applicable, make sure you include a README.md explaining how to run your code and add any necessary comments and documentation which would make it easier to understand your code and commits)
 - For design tasks, send your interviewer a link to your design in Figma
+- For all tasks, record a [Loom](https://www.loom.com/) video showing what you built and explaining your code
+  - The video doesn't have to be anything too elaborate and long, it should be about 30-60 seconds long
+  - Some things you can talk about: showing the full product flow, an interesting technical problem you faced in your code and how you solved it, ideas for how you could improve what you built
