@@ -99,8 +99,8 @@ Here's a mockup of what you will be building:
 2. Make a real Twitter account and Instagram account dedicated to promoting the scholarship.
 3. Add a realistic photo, bio, links, follow relevant accounts etc
 4. Make a twitter thread ([example 1](https://twitter.com/atilatech/status/1446837154173394946), [example 2](https://twitter.com/atilatech/status/1404379377933107202)) and Instagram Carousel ([example 1](https://www.instagram.com/p/CTupPp5rvZr/), [example 2](https://www.instagram.com/p/CPWnK9GMYlk/)) promoting the scholarship.
-5. Make sure to use marketing best practicses that you've learnt
-6. Write a short writeup explaining how you created the account, what marketing strategies you used (captions, picture choice, Call to Actions etc.) and In your Google doc include links to the social media accounts, the social media posts and screenshots of your post
+5. Find 3 TikTok accounts that Atila could potentially partner with and explain why you chose them
+6. Write a short writeup explaining how you created the account, what marketing strategies you used (captions, picture choice, Call to Actions etc.) and In your Google doc include links to the social media accounts, the social media posts and screenshots of your post and the 3 TikTok accounts and why you chose them
 7. Send the Atila marketing team a link to the Google doc
 
 ## Submission Instructions
